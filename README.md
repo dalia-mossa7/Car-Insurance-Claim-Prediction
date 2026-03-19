@@ -1,6 +1,6 @@
 Car Insurance Claim Prediction
 
-This project is a Data Mining course project that we developed as a team as part of the course requirements. In this project, we applied machine learning techniques to solve a real-world problem in the insurance domain.
+This project is a Data Mining course project that we developed as a team . In this project, we applied machine learning techniques to solve a real-world problem in the insurance domain.
 
 We followed the full Data Analytics Lifecycle, starting from problem definition and data collection, to data cleaning and preprocessing, exploratory data analysis (EDA), model building, and evaluation. The dataset includes demographic, behavioral, and financial features such as age, income, driving experience, accident history, vehicle type, and credit score.
 
