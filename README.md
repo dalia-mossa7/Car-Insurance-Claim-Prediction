@@ -13,4 +13,5 @@ We implemented multiple classification models including Decision Tree, Naïve Ba
 We also applied K-Means clustering to segment customers into different risk groups.
 
 Conclusion:
+
 We found that factors such as driving behavior and credit score can be reasonably relied upon in predicting insurance claims. However, these factors alone are not sufficient, and combining multiple features leads to more accurate and reliable predictions.
